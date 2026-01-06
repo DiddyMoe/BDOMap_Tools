@@ -1,4 +1,12 @@
 
+> ⚠️ **Status: Archived / Deprecated**
+>
+> This repository is no longer maintained.
+>  
+> - Reason: Exploratory project
+> - Last maintained: 2023
+> - Use at your own risk
+
 # Famme's BDO Tools
 
 ### somethinglovely.net by Famme (Discord: fffam)
